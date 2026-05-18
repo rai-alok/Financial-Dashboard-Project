@@ -23,7 +23,6 @@ The project leverages **Microsoft Excel** for data visualization and includes da
 
 ## Tools & Technologies
 - **Microsoft Excel**
-- **Power BI**
 - Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
 
